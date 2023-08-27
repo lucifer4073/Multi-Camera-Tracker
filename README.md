@@ -40,4 +40,4 @@ We aim to develop a system for measuring visitor wait times in specific scenario
 2. **Tracking**: Instead of relying solely on traditional tracking algorithms, incorporate deep learning-based trackers such as FairMOT or Tracktor, which leverage the temporal information for better tracking, especially in crowded scenes.
 
 3. **Feature Fusion**: Explore models that integrate both object detection and tracking in an end-to-end manner. This can potentially improve the system's robustness by allowing better incorporation of temporal information during detection and tracking stages.
-# Multi-Camera-Tracker
+
