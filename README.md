@@ -13,6 +13,12 @@ We aim to develop a system for measuring visitor wait times in specific scenario
 - Input: Video (mp4) + ROI coordinates.
 - Output: Video (mp4)
 
+#### Find the attached link 
+
+- Input Video: <https://drive.google.com/file/d/1NVN3a58yhML6cBKkDIMobUmcLnzfS_jT/view?usp=sharing>
+- ROI: (1920,800) , straight line with x,y coordinates respectively
+- Output Video: <https://drive.google.com/file/d/1eGRl-5cjn_vN0T5Ip0Ktn19ihlPJzia4/view?usp=drive_link>
+  
 ## Approach
 
 - Initial approach involves using a YOLO V8 model trained on COCO-dataset, also involving the usage of open-cv and ultralytics module.
