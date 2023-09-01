@@ -11,12 +11,14 @@ We aim to develop a system for measuring visitor wait times in specific scenario
 #### Test Case Description
 
 - Input: Video (mp4) + ROI coordinates.
+- ROI is in the format (xmin,ymin,xmax,ymax)
 - Output: Video (mp4)
 
 #### Find the attached link 
 
 - Input Video: <https://drive.google.com/file/d/1NVN3a58yhML6cBKkDIMobUmcLnzfS_jT/view?usp=sharing>
-- ROI: (1920,800) , straight line with x,y coordinates respectively
+- ROI for Sample vid-1: (400,200,850,600)
+- ROI for Sample vid-2: (600,200,1000,600)
 - Output Video: <https://drive.google.com/file/d/1eGRl-5cjn_vN0T5Ip0Ktn19ihlPJzia4/view?usp=drive_link>
   
 ## Approach
