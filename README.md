@@ -20,8 +20,6 @@ We aim to develop a system for measuring visitor wait times in specific scenario
 - Input Video_2: <https://drive.google.com/file/d/1u9tK_Z8kZXXLmQ5DGjaOfYQQUxuLNhfU/view?usp=sharing>
 - ROI for Sample vid-1: (400,200,850,600)
 - ROI for Sample vid-2: (600,200,1000,600)
-- Output Video_1: <https://drive.google.com/file/d/1eGRl-5cjn_vN0T5Ip0Ktn19ihlPJzia4/view?usp=drive_link>
-- Output Video_2: <https://drive.google.com/file/d/1u9tK_Z8kZXXLmQ5DGjaOfYQQUxuLNhfU/view?usp=sharing>
   
 ## Approach
 
